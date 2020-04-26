@@ -1,0 +1,10 @@
+$color-body: rgb(13, 24, 85);
+
+:root {
+    --color-letter: white;
+}
+
+body {
+    background: $color-body;
+    color: var(--color-letter);
+}
